@@ -1,0 +1,82 @@
+body {
+    background-color: #355580; 
+    
+}
+
+h1 {
+    color: whitesmoke; 
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    color: rgb(10, 8, 8);
+    
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(182, 21, 147);
+}
+
+a {  
+    text-decoration: none;
+    font-weight: bold;
+    color: azure;
+}
+
+.title-box {
+    background-color:  black;
+    border: 2px solid whitesmoke;
+    padding: 15px;
+    margin: 20px auto;
+    width: 80%;
+}
+
+.choco-title {
+    text-align: center;
+    color: whitesmoke;
+}
+
+ h2, p, h3 {
+    text-align: center;
+}
+
+ul, li, ol {
+    list-style-type: none; 
+    padding: 0;           
+    margin-left: 0;      
+    text-align: center
+}
+
+.home-button{
+    color:blue;
+    text-decoration: none;
+    font-weight: bold;
+    animation: rgb-change 5s infinite alternate;
+}
+
+@keyframes rgb-change{
+    0% {
+        color:rgb(226, 9, 215);
+    }
+    33%{
+        color:rgb(61, 209, 202);
+    }
+    66%{
+        color:rgb(53, 167, 8);
+    }
+    100%{
+        color:rgb(230, 212, 55)
+    }
+}
+
+.home-button:hover{
+    text-decoration: underline;
+    color: gold;
+}

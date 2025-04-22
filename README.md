@@ -1,1 +1,1 @@
-Hello! In this project called Recipes, I will be displaying and putting to use a variety of HTML skills and knowledge I have acquired. This will include working with links,images,lists and begginner coding comprehension. 
+Hello! In this project called Recipes, I will be displaying and putting to use a variety of HTML skills and knowledge I have acquired. This will include working with links,images,lists and begginner coding comprehension. This is my first official project and it made me realize how much I've learned in this subject.
